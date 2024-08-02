@@ -7,8 +7,6 @@
     <list default="true" id="81f05a5b-c801-4f08-a544-6acd99e58909" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rod/RodCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rod/RodCut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinarySearchTree.executor": "Run",
+    "Application.RodCut.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -70,7 +69,7 @@
       <workItem from="1722347045557" duration="1302000" />
       <workItem from="1722449070386" duration="623000" />
       <workItem from="1722452568681" duration="455000" />
-      <workItem from="1722551867315" duration="9133000" />
+      <workItem from="1722551867315" duration="13684000" />
     </task>
     <servers />
   </component>
