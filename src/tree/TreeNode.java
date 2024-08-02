@@ -1,4 +1,4 @@
-package ds;
+package tree;
 
 public class TreeNode {
 	public int key;
